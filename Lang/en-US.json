@@ -1,0 +1,65 @@
+{
+    "first page1": "Shop Craft",
+    "first page2": "Your Premium Shopping Experience",
+    "first page3": "Sign Up",
+    "first page4": "Sign In",
+
+
+    "sign in1": "Welcome Back",
+    "sign in2": "Sign in to ShopCraft",
+    "sign in3": "Email address",
+    "sign in4": "Email is required",
+    "sign in5": "Please Include an '@' in the email address $value Password is missing an '@' ",
+    "sign in6": "Password",
+    "sign in7": "Password must be at least 6 characters",
+    "sign in8": "Please Fix the error before continuing",
+    "sign in9": "Sign In",
+    "sign up1": "Create Account",
+    "sign up2": "Join ShopCraft today",
+    "sign up3": "Full Name",
+    "sign up4": "Full name is required",
+    "sign up5": "Email address",
+    "sign up6": "Email is required",
+    "sign up7": "Please Include an '@' in the email address $value Password is missing an '@' ",
+    "sign up8": "Password",
+    "sign up9": "Password must be at least 6 characters",
+    "sign up10": "Confirm Password",
+    "sign up11": "Passwords do not match",
+    "sign up12": "Please Fix the error before continuing",
+    "sign up13": "Create Account",
+
+
+    "app bar": "Our Products",
+
+
+    "page view1": "Premium Mobile Phone Collection",
+    "page view2": "Premium Mouse",
+    "page view3": "Premium Smart Watch",
+
+
+    "home page1": "Featured Products",
+    "home page2": "Shop Our Collection",
+    "home page3": "Hot Offers 🔥",
+
+
+    "grid text1": "Smart Watch\n$399",
+    "grid text2": "Smart Watch\n$399",
+    "grid text3": "Wireless Mouse\n$79",
+    "grid text4": "Wireless Headphones\n299$",
+    "grid text5": "MacBook Pro 16\n$2,399",
+    "grid text6": "Premium Keyboard\n$199",
+    "grid viw7" :"Item added to cart",
+
+    "list text1": "50% Off Electronics\nLimited time offer on all tech gadgets",
+    "list text2":"Free Shipping Weekend\nNo delivery charges on orders above $50",
+    "list text3":"Buy 2 Get 1 Free\nOn selected accessories and peripherals",
+    "list text4":"Student Discount\nExtra 20% off with valid student ID",
+    "list text5":"Bundle Deals\nSave more when you buy complete setups",
+
+
+    "list boutton1":"50% OFF",
+    "list boutton2":"FREE SHIP",
+    "list boutton3":"B2G1",
+    "list boutton4":"20% OFF",
+    "list boutton5":"20% OFF"
+}
